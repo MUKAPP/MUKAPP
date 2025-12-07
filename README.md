@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on something amazing
 - 📫 How to reach me: [www.mukapp.top](https://www.mukapp.top)
 - ⚡ Fun fact: I am always working
-- 👨‍💻 Now in development: MHoyoTool (应急食品)
+- 👨‍💻 Now in development: MSpring Theme
 
 ## 🔧 Technologies & Tools
 
